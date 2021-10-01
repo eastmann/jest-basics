@@ -14,5 +14,7 @@
     "eslint-plugin-jest": "^24.5.0",
     "jest": "^27.2.4"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
 }
